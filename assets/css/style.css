@@ -128,6 +128,12 @@ p {
   h4 {
     line-height: 1;
   }
+
+  .footer-container {
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+}
 }
 /*  global classes */
 
